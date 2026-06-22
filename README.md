@@ -9,7 +9,7 @@ Welcome to my official website! Here you'll find my latest updates, projects, ph
 <body>
 
   <div class="container">
-    <h1>🎉 Happy Birthday Tonni 🎂</h1>
+    <h1>🎉 Happy Birthday disha🎂</h1>
     <p>I wish you happiness and success 💖</p>
 
     <button onclick="showMsg()">Click Me</button>
