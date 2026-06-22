@@ -21,3 +21,4 @@ Welcome to my official website! Here you'll find my latest updates, projects, ph
 </body>
 </html>
 <img src="photo.jpg" alt="My Photo" width="300">
+<img src="photo.jpg" alt="My Photo" width="300">
